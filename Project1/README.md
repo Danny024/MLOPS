@@ -12,7 +12,7 @@ The list of the files and description present in this directory are as follows:
 
 2. **churn_script_loggig_and_test.py** : This file contains unit test for the **churn_library.py** file. It provides LOG INFO and errors.
 
-3. **requirements_py*.txt**: dependencies to be installed either for python3.6 or python3.8
+3. **requirements_py.txt**: dependencies to be installed either for python3.6 or python3.8
 
 4. **README.md**: This is the documentation file
 
